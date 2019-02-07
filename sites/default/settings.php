@@ -769,7 +769,7 @@ $settings['entity_update_batch_size'] = 50;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'new-rcc-template',
+  'database' => 'db_new-rcc-template-drupal8',
   'username' => 'root',
   'password' => '',
   'prefix' => '',
